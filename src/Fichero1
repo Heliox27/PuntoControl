@@ -1,1 +1,5 @@
+<<<<<<< Upstream, based on master
 segunda modificacion desde el master al fichero1
+=======
+ modificamos el fichero1 desde la rama feature1
+>>>>>>> c6c7740 situados en la rama feature1 modificamos el fichero1 usando commit
